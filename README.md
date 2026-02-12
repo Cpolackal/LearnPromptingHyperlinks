@@ -1,2 +1,1 @@
 # LearnPromptingHyperlinks
-The final version of this script hyperlinks the pages of learnprompting.org together. To give you an example, Wikipedia pages are all hyperlinked to one and other. The goal of this was to do the same for the many articles on learnprompting.org. The final script added over 350 hyperlinks to the pages on learnprompting.org, and its changes are reflected in the website. This is an example of the core concepts that I used in the actual product. (For privacy purposes, this is just a demo, not the full script that was used).
